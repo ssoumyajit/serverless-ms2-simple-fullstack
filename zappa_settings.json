@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "thumbnail.app",
+        "aws_region": "us-east-2",
+        "profile_name": "zappa1",
+        "project_name": "task",
+        "runtime": "python3.8",
+        "s3_bucket": "zappa-microservice-bucket-gebbles"
+    }
+}
