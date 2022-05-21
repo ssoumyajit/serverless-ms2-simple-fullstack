@@ -1,0 +1,8 @@
+# how to run this project
+
+- create and activate a virtual env
+- install requirements
+- zappa status
+- copy api gateway uel from the response and open in browser.
+- url/upload   --> u should see a photo upload template
+
